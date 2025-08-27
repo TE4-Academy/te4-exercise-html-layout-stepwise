@@ -1,0 +1,17 @@
+/* STYLE.CSS — startstilar och kommentarer för stegvis bygge */
+/* BASE */
+:root { --max-width:900px; }
+* { box-sizing:border-box; }
+body { font-family:Inter, Arial, sans-serif; margin:0; background:#f4f4f4; color:#222; }
+.container { max-width:var(--max-width); margin:0 auto; padding:0 15px; }
+
+/* STEP 2: HEADER + FOOTER */
+/* ...lägg till egna stilar i steg 2 i UPPGIFTER.md */
+
+/* STEP 3: NAV */
+
+/* STEP 4: MAIN + BOXES */
+
+/* STEP 6: VISUALEFFEKTER */
+
+/* Media queries kommer i STEP 7 */
